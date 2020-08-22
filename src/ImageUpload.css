@@ -1,0 +1,13 @@
+.app__upload {
+    display: flex;
+    flex-direction: column;
+}
+
+.app__text, .app__file, .app__progress {
+    margin: 15px;
+}
+
+.app__bar {
+    height: 5px;
+    background-color: red;
+}
